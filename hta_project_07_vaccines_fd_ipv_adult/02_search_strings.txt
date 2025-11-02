@@ -1,0 +1,14 @@
+PubMed search:
+(("Poliovirus Vaccine, Inactivated"[Mesh] OR IPV OR "fractional dose IPV" OR "intradermal IPV")
+AND (India OR "low- and middle-income countries" OR LMIC)
+AND (cost OR "cost-effectiveness" OR "health technology assessment" OR HTA OR "budget impact"))
+OR
+(("pneumococcal vaccines"[Mesh] OR "influenza vaccines"[Mesh])
+AND (adult OR elderly OR "high risk")
+AND (India)
+AND (cost OR "cost-effectiveness" OR HTA))
+
+Grey literature:
+- NTAGI reports
+- MoHFW UIP reports
+- WHO position papers on IPV, pneumococcal, influenza
